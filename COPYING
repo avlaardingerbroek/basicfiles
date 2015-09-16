@@ -1,4 +1,8 @@
-Files: path/to/files/*.ext
+== do not include this section ==
+Required --gnu. Other files: COPYING.LIB, COPYING.LESSER (if copyright is different).
+See: AUTHORS 
+
+If you use GPL-3 it will look like this:
 Copyright: yyyy, André Vlaardingerbroek <info@andrevlaardingerbroek.com>
 License: GPL-3+
 
@@ -14,3 +18,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+== do not include this section ==
