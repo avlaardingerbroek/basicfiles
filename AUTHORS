@@ -1,1 +1,8 @@
+== do not include this section ==
+Required in --gnu. Constitutes the authorrights if any no matter if it should be hold - see COPYING. Use THANKS (--gnits) or CREDITS for contributions. Possible other file(s): CONTACT
+
+Simple format:
 André Vlaardingerbroek <info@andrevlaardingerbroek.com>
+
+See: www.gnu.org/software/automake/manual/html_node/Gnits.html
+== do not include this section ==
