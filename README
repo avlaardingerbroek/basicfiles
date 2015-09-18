@@ -1,0 +1,12 @@
+== do not include this section ==
+Obligatory. One file should be in every program: README. It can replace all other files.
+If you use automake --gnu or --gnits:
+
+--gnu 
+The files INSTALL, NEWS, README, AUTHORS, and ChangeLog, plus one of COPYING.LIB, COPYING.LESSER or COPYING, are required at the topmost directory of the package. 
+--gnits
+All of the above.
+VERSION is checked to make sure its format complies with Gnits standards.
+If VERSION indicates that this is an alpha release, and the file README-alpha appears in the topmost directory of a package, then it is included in the distribution
+The file THANKS is required.
+== do not include this section ==
