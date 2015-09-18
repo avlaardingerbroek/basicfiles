@@ -1,3 +1,7 @@
 == do not include this section ==
 Required. User oriented description of changes. See: ChangeLog. 
+gnu-standards:
+In addition to its manual, the package should have a file named NEWS which contains a list of user-visible changes worth mentioning. In each new release, add items to the front of the file and identify the version they pertain to. Don’t discard old items; leave them in the file after the newer items. This way, a user upgrading from any previous version can see what is new.
+
+If the NEWS file gets very long, move some of the older items into a file named ONEWS and put a note at the end referring the user to that file.
 == do not include this section ==

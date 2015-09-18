@@ -9,4 +9,14 @@ All of the above.
 VERSION is checked to make sure its format complies with Gnits standards.
 If VERSION indicates that this is an alpha release, and the file README-alpha appears in the topmost directory of a package, then it is included in the distribution
 The file THANKS is required.
+
+gnu-standards:
+The distribution should contain a file named README with a general overview of the package:
+
+the name of the package;
+the version number of the package, or refer to where in the package the version can be found;
+a general description of what the package does;
+a reference to the file INSTALL, which should in turn contain an explanation of the installation procedure;
+a brief explanation of any unusual top-level directories or files, or other hints for readers to find their way around the source;
+a reference to the file which contains the copying conditions. The GNU GPL, if used, should be in a file called COPYING. If the GNU LGPL is used, it should be in a file called COPYING.LESSER.
 == do not include this section ==

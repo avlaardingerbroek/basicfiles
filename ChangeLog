@@ -1,5 +1,6 @@
 == do not include this section ==
 Required. Always include a changelog. There are many ways to update the content which you can find by searching the internet. Most commonly used to show a reversed chronological (newest first) version information. A user can see if it is usefull to install the new version. See: BUGS, FAQ, SECURITY, README (--gnu required), NEWS (--gnu required) 
+Gnu-standard: ww.gnu.org/prep/standards/standards.html#Change-Logs
 
 Possible format:
 
@@ -22,4 +23,6 @@ All noteable changes to this project will be documented in this file.
 
 ### Security
 -Nothing
+
+
 == do not include this section ==
