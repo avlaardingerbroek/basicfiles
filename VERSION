@@ -1,3 +1,18 @@
 == do not include this section ==
-Optional. --gnits required
+Optional. --gnits required:
+one line containing many fields separated with a single space. From left to right, these fields are:
+The program name, at least when it is different from the package name, or when specific program version numbers follow. 
+Whea single package distributes many programs, the program name is always given.
+The program version numbers, but only if they differ from the version numbers of the whole package. This happens, rather 
+unfrequently, when a single package distributes programs which are maintained by different people, each using his own
+version scheme (e.g. the Texinfo distribution).
+A single dash `-' character, surrounded by one space on each side, of course. This string is used in case both the p
+rogram name and the package name are given. When only the package and package version numbers are given, it is assumed that
+the program name is identical to the package name, and that program version numbers are the same as the package
+version n
+umbers. In this case, this single dash is omitted.
+The optional word `GNU', all in capitals.
+The mandatory package name.
+The mandatory version numbers for the package name.
+
 == do not include this section ==
