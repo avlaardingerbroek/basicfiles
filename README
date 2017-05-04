@@ -6,7 +6,7 @@ If you use automake --gnu or --gnits:
 The files INSTALL, NEWS, README, AUTHORS, and ChangeLog, plus one of COPYING.LIB, COPYING.LESSER or COPYING, are 
 requiredrequired at the topmost directory of the package. 
 --gnits
-All of the above.
+All of the above and 
 VERSION is checked to make sure its format complies with Gnits standards.
 If VERSION indicates that this is an alpha release, and the file README-alpha appears in the topmost directory of 
 package, then it is included in the distribution
