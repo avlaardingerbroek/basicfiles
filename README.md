@@ -6,11 +6,12 @@ Start with README
 
 --gnu required  
 INSTALL  
-NEWS  
+NEWS 
 README  
-AUTHORS  
+AUTHORS 
 ChangeLog  
 COPYING or COPYING.LIB or COPYING.LESSER. 
+
 --gnits extra required  
 VERSION  
 THANKS  
