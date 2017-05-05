@@ -5,7 +5,7 @@ Select what you need
 Start with README
 
 --gnu required  
-INSTALL. 
+INSTALL  
 NEWS  
 README  
 AUTHORS  
