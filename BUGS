@@ -2,5 +2,5 @@
 Optional. Usage: describe known buggy behaviour or historical list of problems solved in this version.
 See: ChangeLog.
 Possible other file(s): TICKETS or ISSUES describing new issues for developers eyes only, put in BUGS if 
-confirmed and unresolved.
+confirmed and unresolved in this version.
 == do not include this section ==
