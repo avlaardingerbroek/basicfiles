@@ -22,3 +22,16 @@ Example standards from 1996
 * VERSION  
 * THANKS  
 * README-alpha when VERSION indicates alpha release
+
+Example basic documentation to make people happy  
+* CONFIGURE. 
+* INSTALL 
+* README 
+
+And to make people interested: 
+* ChangeLog 
+
+To be clear out there: 
+* AUTHORS 
+* COPYING 
+
