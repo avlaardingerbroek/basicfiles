@@ -4,7 +4,11 @@ Select what you need
 
 Start with README
 
---gnu required  
+Only add usefull files
+
+Example standards from 1996
+
+--gnu requires  
 * INSTALL  
 * NEWS 
 * README  
@@ -12,7 +16,7 @@ Start with README
 * ChangeLog  
 * COPYING or COPYING.LIB or COPYING.LESSER. 
 
---gnits extra required  
+--gnits requires extras  
 * VERSION  
 * THANKS  
 * README-alpha when VERSION indicates alpha release
