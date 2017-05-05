@@ -24,7 +24,7 @@ Example standards from 1996
 * README-alpha when VERSION indicates alpha release
 
 Example basic documentation to make people happy  
-* CONFIGURE. 
+* CONFIGURE 
 * INSTALL 
 * README 
 
