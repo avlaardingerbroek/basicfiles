@@ -2,7 +2,9 @@
 
 Select what you need
 
-Start with README
+Start with README and maybe stay with that one.
+
+With some go for one only, e.g. LOCALIZATION or Localizing or i18n.
 
 Only add usefull files
 
