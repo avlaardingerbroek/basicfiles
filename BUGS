@@ -1,5 +1,6 @@
 == do not include this section ==
-Optional. Usage: describe buggy behaviour or historical list of problems solved in this version.
+Optional. Usage: describe known buggy behaviour or historical list of problems solved in this version.
 See: ChangeLog.
-Possible other file(s): (dev)TICKETS
+Possible other file(s): TICKETS or ISSUES describing new issues for developers eyes only, put in BUGS if 
+confirme and unresolved.
 == do not include this section ==
