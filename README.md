@@ -23,15 +23,15 @@ Example standards from 1996
 * THANKS  
 * README-alpha when VERSION indicates alpha release
 
-Example basic documentation to make people happy and when they are really needed 
+Example basic documentation to make people happy or when they are really needed 
 * CONFIGURE 
 * INSTALL 
 * README 
 
-And to make people interested: 
+Interesting: 
 * ChangeLog 
 
-To be clear out there: 
+Be clear: 
 * AUTHORS 
 * COPYING 
 
